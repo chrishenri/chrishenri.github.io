@@ -13,5 +13,6 @@ My work focuses on better understand the fate and transport of contaminants in t
 
 <img src="images/plume animation_2.gif" alt="Plume">
 
-Current Projects
+Main Research Topics
 ======
+Langrangian (particle tracking) method to simulate reactive transport in heterogeneous aquifers
