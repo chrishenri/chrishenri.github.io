@@ -14,14 +14,14 @@ My work focuses on the better understanding and prediction of the fate and trans
 
 Research Topics
 ======
-**Langrangian (particle tracking) method to simulate reactive transport in heterogeneous aquifers**
+**<span style = "font-size:1.5em;">Langrangian (particle tracking) method to simulate reactive transport in heterogeneous aquifers</span>**
 Build stable solution for linear and non-linear reactive transport under complex (realistic) conditions; helps understand key transport processes
 
-**Stochastic assessment of regional scale contamination of agricultural original**
+**<span style = "font-size:1.5em;">Stochastic assessment of regional scale contamination of agricultural original</span>**
 Improve the management of groundwater quality following an agricultural contamination (nitrate, pesticide, ...) at the regional scale by accounting for uncertainty related to imperfect aquifer representation.
 
-**<span style = "font-size:4em;">Upscaling of transport for regional scale application!</span>**
+**<span style = "font-size:1.5em;">Upscaling of transport for regional scale application</span>**
 Development of methods to reproduce transport characteristics associated to local heterogeneity in large scale models. These methods include the Multirate-Mass Transfer approach.
 
-**Probabilistic human health risk assessment**
+**<span style = "font-size:1.5em;">Probabilistic human health risk assessment</span>**
 Application of stochastic theory to aquifer contamination leading to adverse effect on the human health.
