@@ -10,10 +10,9 @@ redirect_from:
 
 My work focuses on the better understanding and prediction of the fate and transport of contaminants in groundwater. This includes the development of numerical solutions to simulate reactive transport in heterogeneous aquifers, transport upscaling and the application of stochastic approaches to account for uncertainty on predictions at the local to the basin scale. I have the chance to be working with exciting and brilliant people within [Thomas Harter](http://groundwater.ucdavis.edu/People/)'s and [Graham Fogg](http://lawr.ucdavis.edu/people/faculty/fogg-graham)'s groups at the [Department of Land, Air and Water Resources](http://lawr.ucdavis.edu/) of the University of California, Davis.
 
-<center>
-<img src="images/plume animation_2.gif" alt="Plume">
-<span style = "font-size:0.5em; color:'#C0C0C0'>Nitrate plume from a non-point source moving toward 3 extraction wells.</span>
-</center>
+<center><img src="images/plume animation_2.gif" alt="Plume"></center>
+<center><span style = "font-size:0.5em; color:'#C0C0C0'>Nitrate plume from a non-point source moving toward 3 extraction wells.</span></center>
+
 
 Research Topics
 ======
