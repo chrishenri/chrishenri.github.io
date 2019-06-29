@@ -17,8 +17,8 @@ My work focuses on this task by contributing to the better understanding and pre
 
 Research Topics
 ======
-**<span style = "font-size:1em;">[Langrangian methods to simulate reactive transport in heterogeneous aquifers](https://chrishenri.github.io/portfolio/portfolio-1/)</span>**<br/>
-Build stable solution for linear and non-linear reactive transport under complex (realistic) conditions; helps understand key transport processes.
+**<span style = "font-size:1em;">[RW3D: Langrangian methods to simulate reactive transport in heterogeneous aquifers](https://chrishenri.github.io/portfolio/portfolio-1/)</span>**<br/>
+Developement of stable solutions for linear and non-linear reactive transport under complex (realistic) conditions.
 
 **<span style = "font-size:1em;">[Stochastic assessment of regional scale contamination of agricultural origin](https://chrishenri.github.io/portfolio/portfolio-2/)</span>**<br/>
 Improve the management of groundwater quality following an agricultural contamination (nitrate, pesticide, ...) at the regional scale by accounting for uncertainty related to imperfect aquifer representation.

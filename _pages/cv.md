@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Civil and Environmental Engineering, [Polytechnic University of Catalonia (UPC)](https://h2ogeo.upc.edu/en/), Barcelona, Spain, 2015
 * M.S. in Earth and Environmental Sciences, [University of Rennes I](https://geosciences.univ-rennes1.fr/en/geosciences-rennes-0), France, 2010
-* B.S. in Water Sciences, Environmental School of Rennes, France, 2008
+* B.S. in Water Sciences, [Environmental School of Rennes](https://www.ecole-eme.fr), France, 2008
 
 
 Work experience
@@ -52,11 +52,11 @@ Skills
   * French: native
   * English: fluent
   * Spanish: advanced
-* Programing: Fortran, Matlab, R (+Shiny), HTML
+* Programing: Fortran, Matlab, R (+Shiny), HTML, Github
 * Water sciences: Modflow (+RT3D/MT3D), RW3D
 * GIS and Geostats: ArcGis, SGEMS, T-PROGS
-* Words | Numbers: LaTeX, Office (Word, Excel, Access, Powerpoint), Pages, Numbers, Keynote
-* Maths | Plots: Mathcad, Maple, Origin, Grapher, Surfer, Tecplot
+* Words/Numbers: LaTeX, Office (Word, Excel, Access, Powerpoint), Pages, Numbers, Keynote
+* Maths/Plots: Mathcad, Maple, Origin, Grapher, Surfer, Tecplot
 * Editing: Illustrator, Paraview, Photoshop, Final Cut
 
 
