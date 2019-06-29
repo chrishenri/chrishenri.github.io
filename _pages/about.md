@@ -12,8 +12,8 @@ No need to recall how providing good quality water to an ever growing human popu
 My work focuses on this task by contributing to the better understanding and prediction of the fate and transport of contaminants in groundwater. This includes the development of numerical solutions to simulate reactive transport in heterogeneous aquifers, transport upscaling and the application of stochastic approaches to account for uncertainty on predictions at the local to the basin scale. I have the chance to be working with exciting and brilliant people within [Thomas Harter](http://groundwater.ucdavis.edu/People/)'s and [Graham Fogg](http://lawr.ucdavis.edu/people/faculty/fogg-graham)'s groups at the [Department of Land, Air and Water Resources](http://lawr.ucdavis.edu/) of the University of California, Davis.
 
 <center><img src="images/plume animation_2.gif" alt="Plume"></center>
-<center><span style = "font-size:0.5em;">Nitrate plume from a non-point source moving toward 3 extraction wells.</span></center>
-
+<center><span style = "font-size:0.7em;">Nitrate plume from a non-point source moving toward 3 extraction wells.</span></center>
+<br/><br/>
 
 Research Topics
 ======
