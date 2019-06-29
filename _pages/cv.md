@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Civil and Environmental Engineering, Polytechnic University of Catalonia (UPC), Barcelona, Spain, 2015
-* M.S. in Earth and Environmental Sciences, University of Rennes I, France, 2010
+* Ph.D. in Civil and Environmental Engineering, [Polytechnic University of Catalonia (UPC)](https://h2ogeo.upc.edu/en/), Barcelona, Spain, 2015
+* M.S. in Earth and Environmental Sciences, [University of Rennes I](https://geosciences.univ-rennes1.fr/en/geosciences-rennes-0), France, 2010
 * B.S. in Water Sciences, Environmental School of Rennes, France, 2008
 
 

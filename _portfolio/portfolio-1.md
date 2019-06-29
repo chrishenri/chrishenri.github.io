@@ -1,7 +1,7 @@
 ---
 title: "Langrangian methods to simulate reactive transport in heterogeneous aquifers"
-excerpt: "Stable solution for reactive transport under complex conditions<br/><img src='/images/500x300.png'>"
+excerpt: "Development of stable solution for the reactive transport under complex conditions using particle tracking methods<br/><img src='/images/fig_MRMT_Rx.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+Description coming soon!
