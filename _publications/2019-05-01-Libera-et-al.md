@@ -3,7 +3,7 @@ title: "Hydraulic conductivity and porosity heterogeneity controls on environmen
 collection: publications
 permalink: /publication/2019-05-01-Libera-et-al
 excerpt: ''
-date: 2017-10-20
+date: 2019-05-01
 venue: 'Advances in Water Resources'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0309170818309436?via%3Dihub5'
 citation: 'Libera, A., Henri, C. V., and de Barros, F. P. J (2019), Hydraulic conductivity and porosity heterogeneity controls on environmental performance metrics: Implications in probabilistic risk analysis, Advances in Water Resources, 127, 1-12. doi:10.1016/j.advwatres.2019.03.002.'
