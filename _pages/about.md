@@ -18,13 +18,13 @@ My work focuses on this task by contributing to the better understanding and pre
 Research Topics
 ======
 **<span style = "font-size:1em;">[RW3D: Langrangian methods to simulate reactive transport in heterogeneous aquifers](https://chrishenri.github.io/portfolio/portfolio-1/)</span>**<br/>
-Developement of stable solutions for linear and non-linear reactive transport under complex (realistic) conditions.
+<span style = "font-size:0.8em;">Developement of stable solutions for linear and non-linear reactive transport under complex (realistic) conditions.</span>
 
 **<span style = "font-size:1em;">[Stochastic assessment of regional scale contamination of agricultural origin](https://chrishenri.github.io/portfolio/portfolio-2/)</span>**<br/>
-Improve the management of groundwater quality following an agricultural contamination (nitrate, pesticide, ...) at the regional scale by accounting for uncertainty related to imperfect aquifer representation.
+<span style = "font-size:0.8em;">Improve the management of groundwater quality following an agricultural contamination (nitrate, pesticide, ...) at the regional scale by accounting for uncertainty related to imperfect aquifer representation.</span>
 
 **<span style = "font-size:1em;">[Upscaling of transport for regional scale application](https://chrishenri.github.io/portfolio/portfolio-3/)</span>**<br/>
-Development of methods to reproduce transport characteristics associated to local heterogeneity in large scale models. These methods include the Multirate-Mass Transfer approach.
+<span style = "font-size:0.8em;">Development of methods to reproduce transport characteristics associated to local heterogeneity in large scale models. These methods include the Multirate-Mass Transfer approach.</span>
 
 **<span style = "font-size:1em;">[Probabilistic human health risk assessment](https://chrishenri.github.io/portfolio/portfolio-4/)</span>**<br/>
-Application of stochastic theory to aquifer contamination leading to adverse effect on the human health.
+<span style = "font-size:0.8em;">Application of stochastic theory to aquifer contamination leading to adverse effect on the human health.</span>

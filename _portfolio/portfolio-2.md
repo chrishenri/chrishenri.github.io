@@ -7,5 +7,5 @@ collection: portfolio
 Description coming soon!
 
 <br/>
-Also see [online tool](https://chrishenri.shinyapps.io/NPS_tool/).
-<center><img src='/images/ScreenShot_shinyApp.png'></center>
+Also see the related [online tool](https://chrishenri.shinyapps.io/NPS_tool/).
+<center><a href="https://chrishenri.shinyapps.io/NPS_tool/"><img src='/images/ScreenShot_shinyApp.png'></a></center>
