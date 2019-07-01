@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <center><img src="Abstracts_wordcloud.png" alt="abstracts_wordcloud"></center>
+<center><span style = "font-size:0.7em;">Wordcloud produced from the abstracts of all publications</span></center>
 <br/>
 
 {% if author.googlescholar %}
