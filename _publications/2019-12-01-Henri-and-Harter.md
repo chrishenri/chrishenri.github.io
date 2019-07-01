@@ -1,5 +1,5 @@
 ---
-title: "Stochastic management of non-point source contamination: joint impact of aquifer heterogeneity and wells characteristics on travel times and contributing areas"
+title: "Stochastic assessment of non-point source contamination: Joint impact of aquifer heterogeneity and wells characteristics on management metrics"
 collection: publications
 permalink: /publication/2019-12-01-Henri-and-Harter
 excerpt: ''
