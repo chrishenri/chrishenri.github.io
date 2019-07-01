@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~chenri/1.embed"></iframe>
+<iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~chenri/1.embed"></iframe>
 
 Education
 ======
