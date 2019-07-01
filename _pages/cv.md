@@ -55,19 +55,19 @@ Veolia Water, Lisieux, France
 
 Skills
 ======
-**Languages**: *French*: native &nbsp; | &nbsp; *English*: fluent &nbsp; | &nbsp; *Spanish*: advanced
+**Languages**:&nbsp;&nbsp; *French*: native &nbsp; | &nbsp; *English*: fluent &nbsp; | &nbsp; *Spanish*: advanced
 
-**Programing**: Fortran, Matlab, R (+Shiny), HTML, Github
+**Programing**:&nbsp;&nbsp; Fortran, Matlab, R (+Shiny), HTML, Github
 
-**Water sciences**: Modflow (+RT3D/MT3D), RW3D
+**Water sciences**:&nbsp;&nbsp; Modflow (+RT3D/MT3D), RW3D
 
-**GIS and Geostats**: ArcGis, SGEMS, T-PROGS
+**GIS and Geostats**:&nbsp;&nbsp; ArcGis, SGEMS, T-PROGS
 
-**Words/Numbers**: LaTeX, Office (Word, Excel, Access, Powerpoint), Pages, Numbers, Keynote
+**Words/Numbers**:&nbsp;&nbsp; LaTeX, Office (Word, Excel, Access, Powerpoint), Pages, Numbers, Keynote
 
-**Maths/Plots**: Mathcad, Maple, Origin, Grapher, Surfer, Tecplot
+**Maths/Plots**:&nbsp;&nbsp; Mathcad, Maple, Origin, Grapher, Surfer, Tecplot
 
-**Editing**: Illustrator, Paraview, Photoshop, Final Cut
+**Editing**:&nbsp;&nbsp; Illustrator, Paraview, Photoshop, Final Cut
 
 <br/>
 
@@ -89,15 +89,15 @@ Presentations
 
 Service and leadership
 ======
-* Reviewer
-  * Water Resources Research
-  * Journal of Hydrology
-  * Hydrological Processes
+**Reviewer**
+* Water Resources Research
+* Journal of Hydrology
+* Hydrological Processes
 
-* Convener/Chair
-  * Session “Regional Groundwater Quality, Availability, and Sustainability: Advances, Methods, and Approaches for a Complex, Changing World” (H51G) at the AGU Fall Meeting 2017, New Orleans (USA)
-  * Session “Groundwater Sustainability Studies: Integrating Monitoring, Modeling, and Policy” (H32D) at the AGU Fall Meeting 2018, Washington D.C. (USA)
+**Convener/Chair**
+* Session “Regional Groundwater Quality, Availability, and Sustainability: Advances, Methods, and Approaches for a Complex, Changing World” (H51G) at the AGU Fall Meeting 2017, New Orleans (USA)
+* Session “Groundwater Sustainability Studies: Integrating Monitoring, Modeling, and Policy” (H32D) at the AGU Fall Meeting 2018, Washington D.C. (USA)
 
-* Membership
-  * European Geosciences Union (since 2012)
-  * American Geophysical Union (since 2013)
+**Membership**
+* European Geosciences Union (since 2012)
+* American Geophysical Union (since 2013)
