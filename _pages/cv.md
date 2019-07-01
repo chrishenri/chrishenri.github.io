@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~chenri/1.embed"></iframe>
+
 Education
 ======
 **Ph.D. in Civil and Environmental Engineering**, *summa cum laude* <span style = "float:right; font-size:0.9em;">2015</span><br/>
@@ -24,11 +26,11 @@ Education
 
 Work experience
 ======
-**Research Associate** <span style = "float:right; font-size:0.9em;">2015 - present</span><br/>
+**Research Associate** <span style = "float:right; font-size:0.9em;">2016 - present</span><br/>
 Dpt. of Land, Air and Water Resources, Davis, CA, USA, University of California, Davis <br/>
 Collaborators: [Thomas Harter](http://groundwater.ucdavis.edu/People/), [Graham Fogg](http://lawr.ucdavis.edu/people/faculty/fogg-graham)
 
-**Research Associate** <span style = "float:right; font-size:0.9em;">Fall 2016</span><br/>
+**Research Associate** <span style = "float:right; font-size:0.9em;">fall 2015</span><br/>
 Spanish Research Council (CSIC- IDAEA) / UPC, Barcelona, Spain <br/>
 Collaborators: [Daniel Fernàndez-Garcia](https://scholar.google.com/citations?user=B8hhzusAAAAJ&hl=en), [David Benson](https://geology.mines.edu/project/benson-david/) (Colorado School of Mines)
 
@@ -89,14 +91,14 @@ Presentations
 
 Service and leadership
 ======
+**Convener/Chair**
+* Session “Regional Groundwater Quality, Availability, and Sustainability: Advances, Methods, and Approaches for a Complex, Changing World” (H51G) at the AGU Fall Meeting 2017, New Orleans (USA)
+* Session “Groundwater Sustainability Studies: Integrating Monitoring, Modeling, and Policy” (H32D) at the AGU Fall Meeting 2018, Washington D.C. (USA)
+
 **Reviewer**
 * Water Resources Research
 * Journal of Hydrology
 * Hydrological Processes
-
-**Convener/Chair**
-* Session “Regional Groundwater Quality, Availability, and Sustainability: Advances, Methods, and Approaches for a Complex, Changing World” (H51G) at the AGU Fall Meeting 2017, New Orleans (USA)
-* Session “Groundwater Sustainability Studies: Integrating Monitoring, Modeling, and Policy” (H32D) at the AGU Fall Meeting 2018, Washington D.C. (USA)
 
 **Membership**
 * European Geosciences Union (since 2012)
