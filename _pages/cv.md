@@ -21,6 +21,7 @@ Education
 [Environmental School of Rennes](https://www.ecole-eme.fr), France
 
 <br/>
+
 Work experience
 ======
 **Research Associate** <span style = "float:right; font-size:0.9em;">2015 - present</span><br/>
@@ -51,6 +52,7 @@ Geosciences Rennes (CNRS, University of Rennes 1), Rennes, France
 Veolia Water, Lisieux, France
 
 <br/>
+
 Skills
 ======
 **Languages**: *French*: native &nbsp; | &nbsp; *English*: fluent &nbsp; | &nbsp; *Spanish*: advanced
@@ -68,6 +70,7 @@ Skills
 **Editing**: Illustrator, Paraview, Photoshop, Final Cut
 
 <br/>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -75,6 +78,7 @@ Publications
   {% endfor %}</ul>
 
 <br/>
+
 Presentations
 ======
   <ul>{% for post in site.talks %}
@@ -82,6 +86,7 @@ Presentations
   {% endfor %}</ul>
 
 <br/>
+
 Service and leadership
 ======
 * Reviewer
