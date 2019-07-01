@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2015 - present: Research Associate
+* Research Associate [2015 - present]{style="float:right"}
   * Dpt. of Land, Air and Water Resources, Davis, CA, USA, University of California, Davis
   * Collaborators: [Thomas Harter](http://groundwater.ucdavis.edu/People/), [Graham Fogg](http://lawr.ucdavis.edu/people/faculty/fogg-graham)
 
