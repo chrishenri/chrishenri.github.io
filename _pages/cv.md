@@ -20,7 +20,7 @@ Education
 **B.S. in Water Sciences**, *with honors* <span style = "float:right; font-size:0.9em;">2008</span><br/>
 [Environmental School of Rennes](https://www.ecole-eme.fr), France
 
-
+<br/>
 Work experience
 ======
 **Research Associate** <span style = "float:right; font-size:0.9em;">2015 - present</span><br/>
@@ -50,35 +50,38 @@ Geosciences Rennes (CNRS, University of Rennes 1), Rennes, France
 **Assistant manager of “water network” dpt.** <span style = "float:right; font-size:0.9em;">2005 - 2007</span> <br/>
 Veolia Water, Lisieux, France
 
-
+<br/>
 Skills
 ======
-* Languages
-  * French: native
-  * English: fluent
-  * Spanish: advanced
-* Programing: Fortran, Matlab, R (+Shiny), HTML, Github
-* Water sciences: Modflow (+RT3D/MT3D), RW3D
-* GIS and Geostats: ArcGis, SGEMS, T-PROGS
-* Words/Numbers: LaTeX, Office (Word, Excel, Access, Powerpoint), Pages, Numbers, Keynote
-* Maths/Plots: Mathcad, Maple, Origin, Grapher, Surfer, Tecplot
-* Editing: Illustrator, Paraview, Photoshop, Final Cut
+**Languages**: *French*: native &nbsp; | &nbsp; *English*: fluent &nbsp; | &nbsp; *Spanish*: advanced
 
+**Programing**: Fortran, Matlab, R (+Shiny), HTML, Github
 
+**Water sciences**: Modflow (+RT3D/MT3D), RW3D
+
+**GIS and Geostats**: ArcGis, SGEMS, T-PROGS
+
+**Words/Numbers**: LaTeX, Office (Word, Excel, Access, Powerpoint), Pages, Numbers, Keynote
+
+**Maths/Plots**: Mathcad, Maple, Origin, Grapher, Surfer, Tecplot
+
+**Editing**: Illustrator, Paraview, Photoshop, Final Cut
+
+<br/>
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
+<br/>
 Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-
+<br/>
 Service and leadership
 ======
 * Reviewer
