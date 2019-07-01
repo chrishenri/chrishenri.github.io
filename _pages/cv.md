@@ -18,31 +18,31 @@ Education
 
 Work experience
 ======
-**Research Associate** <span style = "float:right;">2015 - present</span><br/>
+**Research Associate** <span style = "float:right; font-size:0.8em;">2015 - present</span><br/>
 Dpt. of Land, Air and Water Resources, Davis, CA, USA, University of California, Davis <br/>
 Collaborators: [Thomas Harter](http://groundwater.ucdavis.edu/People/), [Graham Fogg](http://lawr.ucdavis.edu/people/faculty/fogg-graham)
 
-**Research Associate** <span style = "float:right;">Fall 2016</span><br/>
+**Research Associate** <span style = "float:right; font-size:0.8em;">Fall 2016</span><br/>
 Spanish Research Council (CSIC- IDAEA) / UPC, Barcelona, Spain <br/>
 Collaborators: [Daniel Fernàndez-Garcia](https://scholar.google.com/citations?user=B8hhzusAAAAJ&hl=en), [David Benson](https://geology.mines.edu/project/benson-david/) (Colorado School of Mines)
 
-**Research Assistant** <span style = "float:right;">2011 - 2015</span> <br/>
+**Research Assistant** <span style = "float:right; font-size:0.8em;">2011 - 2015</span> <br/>
 Polytechnic University of Catalonia, Barcelona, Spain <br/>
 Collaborators: [Daniel Fernàndez-Garcia](https://scholar.google.com/citations?user=B8hhzusAAAAJ&hl=en)
 
-**Visiting Researcher** (invited by [Felipe P.J. de Barros](https://viterbi.usc.edu/directory/faculty/De-Barros/Felipe)) <span style = "float:right;">2014</span> <br/>
+**Visiting Researcher** (invited by [Felipe P.J. de Barros](https://viterbi.usc.edu/directory/faculty/De-Barros/Felipe)) <span style = "float:right; font-size:0.8em;">2014</span> <br/>
 University of Southern California, Los Angeles, CA, USA
 
-**Research Assistant** <span style = "float:right;">2010</span> <br/>
+**Research Assistant** <span style = "float:right; font-size:0.8em;">2010</span> <br/>
 IRD (Research Institute for Development), Niamey, Niger
 
-**Research Assistant** <span style = "float:right;">2009</span> <br/>
+**Research Assistant** <span style = "float:right; font-size:0.8em;">2009</span> <br/>
 Indo-French Cell for Water Science, Indian Institute of Science, Bangalore, India
 
-**Research Assistant** <span style = "float:right;">2007 - 2008</span> <br/>
+**Research Assistant** <span style = "float:right; font-size:0.8em;">2007 - 2008</span> <br/>
 Geosciences Rennes (CNRS, University of Rennes 1), Rennes, France
 
-**Assistant manager of “water network” dpt.** <span style = "float:right;">2005 - 2007</span> <br/>
+**Assistant manager of “water network” dpt.** <span style = "float:right; font-size:0.8em;">2005 - 2007</span> <br/>
 Veolia Water, Lisieux, France
 
 
