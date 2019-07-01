@@ -18,32 +18,32 @@ Education
 
 Work experience
 ======
-Research Associate <span style = "float:right;">2015 - present</span>
-  * Dpt. of Land, Air and Water Resources, Davis, CA, USA, University of California, Davis
-  * Collaborators: [Thomas Harter](http://groundwater.ucdavis.edu/People/), [Graham Fogg](http://lawr.ucdavis.edu/people/faculty/fogg-graham)
+**Research Associate** <span style = "float:right;">2015 - present</span><br/>
+Dpt. of Land, Air and Water Resources, Davis, CA, USA, University of California, Davis <br/>
+Collaborators: [Thomas Harter](http://groundwater.ucdavis.edu/People/), [Graham Fogg](http://lawr.ucdavis.edu/people/faculty/fogg-graham)
 
-* Fall 2016: Research Associate
-  * Spanish Research Council (CSIC- IDAEA) / UPC, Barcelona, Spain
-  * Collaborators: [Daniel Fernàndez-Garcia](https://scholar.google.com/citations?user=B8hhzusAAAAJ&hl=en), [David Benson](https://geology.mines.edu/project/benson-david/) (Colorado School of Mines)
+**Research Associate** <span style = "float:right;">Fall 2016</span><br/>
+Spanish Research Council (CSIC- IDAEA) / UPC, Barcelona, Spain <br/>
+Collaborators: [Daniel Fernàndez-Garcia](https://scholar.google.com/citations?user=B8hhzusAAAAJ&hl=en), [David Benson](https://geology.mines.edu/project/benson-david/) (Colorado School of Mines)
 
-* 2011 - 2015: Research Assistant
-  * Polytechnic University of Catalonia, Barcelona, Spain
-  * Collaborators: [Daniel Fernàndez-Garcia](https://scholar.google.com/citations?user=B8hhzusAAAAJ&hl=en)
+**Research Assistant** <span style = "float:right;">2011 - 2015</span> <br/>
+Polytechnic University of Catalonia, Barcelona, Spain <br/>
+Collaborators: [Daniel Fernàndez-Garcia](https://scholar.google.com/citations?user=B8hhzusAAAAJ&hl=en)
 
-* 2014: Visiting Researcher (invited by [Felipe P.J. de Barros](https://viterbi.usc.edu/directory/faculty/De-Barros/Felipe))
-  * University of Southern California, Los Angeles, CA, USA
+**Visiting Researcher** (invited by [Felipe P.J. de Barros](https://viterbi.usc.edu/directory/faculty/De-Barros/Felipe)) <span style = "float:right;">2014</span> <br/>
+University of Southern California, Los Angeles, CA, USA
 
-* 2010: Research Assistant
-  * IRD (Research Institute for Development), Niamey, Niger
+**Research Assistant** <span style = "float:right;">2010</span> <br/>
+IRD (Research Institute for Development), Niamey, Niger
 
-* 2009: Research Assistant
-  * Indo-French Cell for Water Science, Indian Institute of Science, Bangalore, India
+**Research Assistant** <span style = "float:right;">2009</span> <br/>
+Indo-French Cell for Water Science, Indian Institute of Science, Bangalore, India
 
-* 2007 - 2008: Research Assistant
-  * Geosciences Rennes (CNRS, University of Rennes 1), Rennes, France
+**Research Assistant** <span style = "float:right;">2007 - 2008</span> <br/>
+Geosciences Rennes (CNRS, University of Rennes 1), Rennes, France
 
-* 2005 - 2007: Assistant manager of “water network” dpt.
-  * Veolia Water, Lisieux, France
+**Assistant manager of “water network” dpt.** <span style = "float:right;">2005 - 2007</span> <br/>
+Veolia Water, Lisieux, France
 
 
 Skills
