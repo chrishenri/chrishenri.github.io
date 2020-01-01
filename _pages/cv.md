@@ -11,6 +11,9 @@ redirect_from:
 
 <iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~chenri/1.embed"></iframe>
 
+# Table of Contents
+1. [Education](#education)
+
 Education
 ======
 **Ph.D. in Civil and Environmental Engineering**, *summa cum laude* <span style = "float:right; font-size:0.9em;">2015</span><br/>
