@@ -13,11 +13,11 @@ redirect_from:
 
 # Shortcut to:
 * [Education](#education)
-* [Work experience](#workexperience)
+* [Work experience](#work-experience)
 * [Skills](#skills)
 * [Publications](#publications)
 * [Presentations](#presentations)
-* [Service and leadership](#service)
+* [Service and leadership](#service-and-leadership)
 
 <br/>
 
