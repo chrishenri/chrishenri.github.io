@@ -92,8 +92,9 @@ Presentations
 Service and leadership
 ======
 **Convener/Chair**
-* Session “Regional Groundwater Quality, Availability, and Sustainability: Advances, Methods, and Approaches for a Complex, Changing World” (H51G) at the AGU Fall Meeting 2017, New Orleans (USA)
+* Session “Regional Groundwater Quality, Availability, and Sustainability: Advances, Methods, and Approaches for a Complex, Changing World” (H51G) at the AGU Fall Meeting 2017, New Orleans, LA (USA)
 * Session “Groundwater Sustainability Studies: Integrating Monitoring, Modeling, and Policy” (H32D) at the AGU Fall Meeting 2018, Washington D.C. (USA)
+* Session “Regional-Scale Groundwater, Availability, and Sustainability Studies I and II” (H52G, H41O) at the AGU Fall Meeting 2018, San Francisco, CA (USA)
 
 **Reviewer**
 * Water Resources Research
