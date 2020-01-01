@@ -11,8 +11,15 @@ redirect_from:
 
 <iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~chenri/1.embed"></iframe>
 
-# Table of Contents
-1. [Education](#education)
+# Shortcut to:
+* [Education](#education)
+* [Work experience](#workexperience)
+* [Skills](#skills)
+* [Publications](#publications)
+* [Presentations](#presentations)
+* [Service and leadership](#service)
+
+<br/>
 
 Education
 ======
