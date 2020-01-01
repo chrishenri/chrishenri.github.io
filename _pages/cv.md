@@ -11,7 +11,7 @@ redirect_from:
 
 <iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~chenri/1.embed"></iframe>
 
-[Education](#education) | [Work experience](#work-experience) | [Skills](#skills) | [Publications](#publications) | [Presentations](#presentations) | [Service and leadership](#service-and-leadership)
+[Education](#education) ... [Work experience](#work-experience) ... [Skills](#skills) ... [Publications](#publications) ... [Presentations](#presentations) ... [Service and leadership](#service-and-leadership)
 
 <br/>
 
