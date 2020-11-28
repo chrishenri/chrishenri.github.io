@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Chris Henri"
-  avatar           : "profile_pic.jpg"
-  bio              : "Postdoc at the University of California, working (mostly) on groundwater transport"
-  location         : "Oakland, CA"
+  avatar           : "profile_pic_river.jpeg"
+  bio              : "Postdoc at the University of California, working on groundwater contaminant transport"
+  location         : "Sacramento, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ENPjVqwAAAAJ&hl=en"

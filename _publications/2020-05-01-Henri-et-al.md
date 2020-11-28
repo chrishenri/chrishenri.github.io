@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2020-05-01-Henri-et-al
 excerpt: ''
 date: 2020-05-01
-venue: '(submitted for publication in Stochastic Environmental Research and Risk Assessment)'
-paperurl: ''
-citation: 'Henri, C.V., Harter, T., Diamantopoulos, E., Stochastic Assessment of Land-Use Change Effect on Groundwater Quality, submitted in SERRA'
+venue: 'Stochastic Environmental Research and Risk Assessment'
+paperurl: 'https://doi.org/10.1007/s00477-020-01869-y'
+citation: 'Henri, C.V., Harter, T., Diamantopoulos, E., Stochastic Assessment of Land-Use Change Effect on Groundwater Quality, Stochastic Environmental Research and Risk Assessment'
 ---
 
-Abstract: Coming soon!
+Assessing the impact of a land-use change (LUC) or change in land-use management on nonpoint source-driven groundwater quality in heterogeneous aquifers requires complex analysis. Stochastic methods have been used to account for prediction uncertainty but at high computational cost, which significantly limits the application of these approaches. As an efficient alternative, this study evaluates the application of a meta-analytical solution for evaluating the change in contaminant breakthrough curves at extraction wells in response to LUC. The solution uses the concentration percentiles from a reference stochastic simulation of water flow and solute transport in a groundwater system, assuming a reference land-use distribution pattern. Reference land-use controls the spatially variable rates of both, recharge and contaminant mass loading. The effect of a LUC is evaluated by scaling the ratio between the reference and the new (post-LUC) average input concentrations. The validity of the proposed meta-analysis tool is tested by comparing the results of the meta-analytical solution with those from a full stochastic simulation of the post-LUC scenario. Simulation results show that the accuracy of the meta-analytical solution is best when the regional average recharge rates for both pre- and post-LUC remain approximately unchanged, for any change in contaminant mass loading. Results also indicate that changes in spatial variability and pattern of the recharge rate do not significantly impact the flow field, travel times, and resulting concentrations, if the magnitude of local recharge remains about the same. Lastly, the results show large variability among wells of (and—for an individual well—uncertainty about) the time lag between the time of LUC and the time of consequential effective change in concentrations across wells in the affected region, captured here using statistical metrics.
