@@ -99,12 +99,14 @@ Service and leadership
 **Convener/Chair**
 * Session “Regional Groundwater Quality, Availability, and Sustainability: Advances, Methods, and Approaches for a Complex, Changing World” (H51G) at the AGU Fall Meeting 2017, New Orleans, LA (USA)
 * Session “Groundwater Sustainability Studies: Integrating Monitoring, Modeling, and Policy” (H32D) at the AGU Fall Meeting 2018, Washington D.C. (USA)
-* Session “Regional-Scale Groundwater, Availability, and Sustainability Studies I and II” (H52G, H41O) at the AGU Fall Meeting 2018, San Francisco, CA (USA)
+* Session “Regional-Scale Groundwater, Availability, and Sustainability Studies I and II” (H52G, H41O) at the AGU Fall Meeting 2019, San Francisco, CA (USA)
+* Session "Regional Groundwater Availability, Quality, and Sustainability: Processes and Methods I and II" (H050) at the AGU Fall Meeting 2020, Online Everywhere.
 
 **Reviewer**
 * Water Resources Research
 * Journal of Hydrology
 * Hydrological Processes
+* Advances in Water Resources
 
 **Membership**
 * European Geosciences Union (since 2012)
