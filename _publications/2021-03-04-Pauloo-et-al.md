@@ -1,0 +1,12 @@
+---
+title: "Mean Flow Direction Modulates Non‐Fickian Transport in a Heterogeneous Alluvial Aquifer‐Aquitard System"
+collection: publications
+permalink: /publication/2021-03-04-Pauloo-et-al
+excerpt: ''
+date: 2021-03-04
+venue: 'Water Resources Research'
+paperurl: 'https://doi.org/10.1029/2020WR028655'
+citation: 'Pauloo, R. A., Fogg, G. E., Guo, Z., & Henri, C. V. (2021). Mean flow direction modulates non‐Fickian transport in a heterogeneous alluvial aquifer‐aquitard system. Water Resources Research, 57, e2020WR028655. https://doi.org/10.1029/2020WR028655'
+---
+
+Regional‐scale groundwater quality degradation from nonpoint source pollution threatens the long‐term sustainability of major alluvial aquifer‐aquitard systems worldwide. Models are needed to simulate regionally upscaled transport processes in heterogeneous geology that produces non‐Fickian (anomalous) transport. In this investigation, we show the impact of nonhorizontal and nonvertical mean flow direction on non‐Fickian transport within a 3D, kilometer‐scale, typical alluvial aquifer‐aquitard system. Notably, vertical anisotropy in K and seasonal pumping and recharge can fundamentally change hydraulic gradients and shift the mean flow direction between mostly horizontal and mostly vertical flow. Detailed 3D flow and transport simulations under varying mean flow directions indicate that alterations to hydraulic gradients which control the mean flow direction can lead to increasingly non‐Fickian transport. Under mostly horizontal flow, diffusion and slow advection dominant low‐K facies slow mass transfer rates from low‐K material, and preferential flow along connected high‐K networks causes increased spatial spreading along the mean flow direction. Conversely, predominantly vertical flow caused by spatially distributed pumping and recharge shifts mass transfer processes in low‐K material from diffusion and slow advection dominant to advection dominant, resulting in vertically oriented particle trajectories that compactly migrate through high‐K and low‐K facies alike, and increasingly Fickian transport. Thus, mean flow direction transience driven by vertical anisotropy in K and seasonal pumping and recharge can create oscillating transport patterns, that range from persistently non‐Fickian to more Fickian. Results illustrate the regional‐scale hydrogeologic factors that explain why upscaled transport models fail to capture non‐Fickian effects resulting from mean flow direction transience.
