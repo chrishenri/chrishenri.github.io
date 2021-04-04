@@ -31,7 +31,10 @@ Education
 
 Work experience
 ======
-**Research Associate** <span style = "float:right; font-size:0.9em;">2016 - present</span><br/>
+**Marie Skłodowska-Curie fellow**, *Individual Fellowship* <span style = "float:right; font-size:0.9em;">2021 - present</span><br/>
+GEUS (Geological Survey of Denmark and Greenland), Copenhagen, Denmark <br/>
+
+**Research Associate** <span style = "float:right; font-size:0.9em;">2016 - 2021</span><br/>
 Dpt. of Land, Air and Water Resources, Davis, CA, USA, University of California, Davis <br/>
 Collaborators: [Thomas Harter](http://groundwater.ucdavis.edu/People/), [Graham Fogg](http://lawr.ucdavis.edu/people/faculty/fogg-graham)
 
@@ -57,6 +60,18 @@ Geosciences Rennes (CNRS, University of Rennes 1), Rennes, France
 
 **Assistant manager of “water network” dpt.** <span style = "float:right; font-size:0.9em;">2005 - 2007</span> <br/>
 Veolia Water, Lisieux, France
+
+<br/>
+
+Awards/Grants
+======
+**Marie Skłodowska-Curie Actions, Individual Fellowship** <span style = "float:right; font-size:0.9em;">2021-2023</span>
+
+**Water Resources Research Editors' Choice Award** for the paper: Guo, Z., Fogg, G.E. and Henri, C.V., 2019. Upscaling of regional scale transport under transient conditions: evaluation of the multirate mass transfer model. Water Resources Research, 55(7), pp.5301-5320. <span style = "float:right; font-size:0.9em;">2019</span>
+
+**Travel Grant**, France's Ministry of Education <span style = "float:right; font-size:0.9em;">2010</span>
+
+**Travel Grant**, France's Ministry of Education <span style = "float:right; font-size:0.9em;">2009</span>
 
 <br/>
 
