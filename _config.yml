@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christopher V. Henri"
 title_separator          : "-"
 name                     : &name "Chris Henri"
-description              : &description "Marie Skłodowska-Curie fellow at GEUS"
+description              : &description "Researcher at GEUS"
 url                      : https://chrishenri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrishenri.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chris Henri"
   avatar           : "profile_pic_river.jpeg"
-  bio              : "Marie Skłodowska-Curie fellow at GEUS"
+  bio              : "Researcher at GEUS"
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           :
