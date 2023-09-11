@@ -1,9 +1,9 @@
 ---
 title: "Unsaturated Transport Modeling: Random-Walk Particle-Tracking as a Numerical-Dispersion Free and Efficient Alternative to Eulerian Methods"
 collection: publications
-permalink: /publication/J Adv Model Earth Syst - 2022 - Henri.pdf
+permalink: /publication/Henri_and_Diamantopoulos_2022.pdf
 excerpt: ''
-date: 2021-07-01
+date: 2022-07-06
 venue: 'Journal of Advances in Modeling Earth Systems'
 paperurl: ''
 citation: 'Henri, C. V., & Diamantopoulos, E. (2022). Unsaturated transport modeling: Random-walk particle-tracking as a numerical-dispersion free and efficient alternative to Eulerian methods. Journal of Advances in Modeling Earth Systems, 14, e2021MS002812. https://doi.org/10.1029/2021MS002812'

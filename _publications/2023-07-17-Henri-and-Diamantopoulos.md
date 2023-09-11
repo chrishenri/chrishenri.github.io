@@ -1,7 +1,7 @@
 ---
 title: "On the Control of Soil Heterogeneity, Péclet Number and Spatially Variable Diffusion Over Unsaturated Transport"
 collection: publications
-permalink: /publication/Water Resources Research - 2023 - Henri.pdf
+permalink: /publication/Henri_and_Diamantopoulos_2023
 excerpt: ''
 date: 2023-07-17
 venue: 'Water Resources Research'
